@@ -1,5 +1,5 @@
 # 彩蛋
-# import this 
+import this 
 
 # print ("hello the world !") #国际惯例，哈哈哈
 
